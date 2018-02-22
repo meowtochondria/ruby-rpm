@@ -94,13 +94,13 @@ rm -rf $RPM_BUILD_ROOT
 * Tue Apr 26 2016 Takashi Masuda <masutaka@feedforce.jp> - 2.3.1
 - Update ruby version to 2.3.1
 
-* Tue Dec 25 2015 Masato Tanaka <tanaka@feedforce.jp> - 2.3.0
+* Fri Dec 25 2015 Masato Tanaka <tanaka@feedforce.jp> - 2.3.0
 - Update ruby version to 2.3.0
 
-* Tue Dec 17 2015 Masato Tanaka <tanaka@feedforce.jp> - 2.2.4
+* Thu Dec 17 2015 Masato Tanaka <tanaka@feedforce.jp> - 2.2.4
 - Update ruby version to 2.2.4
 
-* Tue Aug 19 2015 Masato Tanaka <tanaka@feedforce.jp> - 2.2.3
+* Wed Aug 19 2015 Masato Tanaka <tanaka@feedforce.jp> - 2.2.3
 - Update ruby version to 2.2.3
 
 * Tue Apr 14 2015 Takashi Masuda <masutaka@feedforce.jp> - 2.2.2

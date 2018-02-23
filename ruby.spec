@@ -63,7 +63,7 @@ rm -rf $RPM_BUILD_ROOT/usr/src
 rm -rf $RPM_BUILD_ROOT
 
 %files
-%defattr(-, root, root)
+%defattr(-, root, root, 755)
 %{_bindir}/*
 %{_includedir}/*
 %{_datadir}/*
